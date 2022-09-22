@@ -1,0 +1,34 @@
+*{ list-style: none;
+    margin: 0;
+    padding: 0;
+}
+#img{
+margin: 100px 100px 10px 500px; /* üst sağ alt sol */
+}
+#search{
+    margin: 0px 80px 2px 80px;
+    background-color:grey;
+}
+#search2{
+    margin: 0px 100px 2px 450px;
+   
+}
+#line{
+    left: 600px;
+    width: 300px;
+   
+}
+#search #buton{
+  padding:5px 0px 0 55px;
+}
+#alt{
+    margin: 0px 80px 2px 80px;
+}   
+.gez{
+    padding-top: 20px; 
+    text-align: center;
+    float: left;
+    margin-right: 2px;
+    height: 105px;
+    background-color: aquamarine;
+}
